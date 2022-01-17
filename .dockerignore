@@ -1,0 +1,8 @@
+stack.yml
+run.sh
+update_adapter.sh
+goto_adapter.sh
+cleanup.sh
+conf/
+log/
+readme.txt

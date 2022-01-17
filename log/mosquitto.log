@@ -1,0 +1,420 @@
+1642272459: mosquitto version 2.0.14 starting
+1642272459: Config loaded from /mosquitto/config/mosquitto.conf.
+1642272459: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1642272459: Create a configuration file which defines a listener to allow remote access.
+1642272459: For more details see https://mosquitto.org/documentation/authentication-methods/
+1642272459: Opening ipv4 listen socket on port 1883.
+1642272459: Opening ipv6 listen socket on port 1883.
+1642272459: Error: Address not available
+1642272459: mosquitto version 2.0.14 running
+1642272518: mosquitto version 2.0.14 terminating
+1642272522: mosquitto version 2.0.14 starting
+1642272522: Config loaded from /mosquitto/config/mosquitto.conf.
+1642272522: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1642272522: Create a configuration file which defines a listener to allow remote access.
+1642272522: For more details see https://mosquitto.org/documentation/authentication-methods/
+1642272522: Opening ipv4 listen socket on port 1883.
+1642272522: Opening ipv6 listen socket on port 1883.
+1642272522: Error: Address not available
+1642272522: mosquitto version 2.0.14 running
+1642272933: mosquitto version 2.0.14 terminating
+1642272949: mosquitto version 2.0.14 starting
+1642272949: Config loaded from /mosquitto/config/mosquitto.conf.
+1642272949: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1642272949: Create a configuration file which defines a listener to allow remote access.
+1642272949: For more details see https://mosquitto.org/documentation/authentication-methods/
+1642272949: Opening ipv4 listen socket on port 1883.
+1642272949: Opening ipv6 listen socket on port 1883.
+1642272949: Error: Address not available
+1642272949: mosquitto version 2.0.14 running
+1642273122: mosquitto version 2.0.14 terminating
+1642273167: mosquitto version 2.0.14 starting
+1642273167: Config loaded from /mosquitto/config/mosquitto.conf.
+1642273167: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1642273167: Create a configuration file which defines a listener to allow remote access.
+1642273167: For more details see https://mosquitto.org/documentation/authentication-methods/
+1642273167: Opening ipv4 listen socket on port 1883.
+1642273167: Opening ipv6 listen socket on port 1883.
+1642273167: Error: Address not available
+1642273167: mosquitto version 2.0.14 running
+1642273601: mosquitto version 2.0.14 terminating
+1642274235: mosquitto version 2.0.14 starting
+1642274235: Config loaded from /mosquitto/config/mosquitto.conf.
+1642274235: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1642274235: Create a configuration file which defines a listener to allow remote access.
+1642274235: For more details see https://mosquitto.org/documentation/authentication-methods/
+1642274235: Opening ipv4 listen socket on port 1883.
+1642274235: Opening ipv6 listen socket on port 1883.
+1642274235: Error: Address not available
+1642274235: mosquitto version 2.0.14 running
+1642274536: mosquitto version 2.0.14 terminating
+1642274542: mosquitto version 2.0.14 starting
+1642274542: Config loaded from /mosquitto/config/mosquitto.conf.
+1642274542: Opening ipv4 listen socket on port 1883.
+1642274542: Opening ipv6 listen socket on port 1883.
+1642274542: mosquitto version 2.0.14 running
+1642274584: New connection from 192.168.32.3:48141 on port 1883.
+1642274584: New client connected from 192.168.32.3:48141 as MqttDemoClient (p2, c1, k60).
+1642274588: Client MqttDemoClient closed its connection.
+1642274731: mosquitto version 2.0.14 terminating
+1642274776: mosquitto version 2.0.14 starting
+1642274776: Config loaded from /mosquitto/config/mosquitto.conf.
+1642274776: Opening ipv4 listen socket on port 1883.
+1642274776: Opening ipv6 listen socket on port 1883.
+1642274776: mosquitto version 2.0.14 running
+1642274791: New connection from 10.0.34.4:44319 on port 1883.
+1642274791: New client connected from 10.0.34.4:44319 as MqttDemoClient (p2, c1, k60).
+1642274792: Client MqttDemoClient closed its connection.
+1642274988: mosquitto version 2.0.14 terminating
+1642325325: mosquitto version 2.0.14 starting
+1642325325: Config loaded from /mosquitto/config/mosquitto.conf.
+1642325325: Opening ipv4 listen socket on port 1883.
+1642325325: Opening ipv6 listen socket on port 1883.
+1642325325: mosquitto version 2.0.14 running
+1642325353: New connection from 10.0.2.4:48753 on port 1883.
+1642325353: New client connected from 10.0.2.4:48753 as MqttDemoClient (p2, c1, k60).
+1642325355: Client MqttDemoClient closed its connection.
+1642325392: mosquitto version 2.0.14 terminating
+1642325413: mosquitto version 2.0.14 starting
+1642325413: Config loaded from /mosquitto/config/mosquitto.conf.
+1642325413: Opening ipv4 listen socket on port 1883.
+1642325413: Opening ipv6 listen socket on port 1883.
+1642325413: mosquitto version 2.0.14 running
+1642325438: New connection from 10.0.5.4:60435 on port 1883.
+1642325438: New client connected from 10.0.5.4:60435 as MqttDemoClient (p2, c1, k60).
+1642325533: Client MqttDemoClient has exceeded timeout, disconnecting.
+1642325711: mosquitto version 2.0.14 terminating
+1642325737: mosquitto version 2.0.14 starting
+1642325737: Config loaded from /mosquitto/config/mosquitto.conf.
+1642325737: Opening ipv4 listen socket on port 1883.
+1642325737: Opening ipv6 listen socket on port 1883.
+1642325737: mosquitto version 2.0.14 running
+1642325788: New connection from 10.0.10.4:52037 on port 1883.
+1642325788: New client connected from 10.0.10.4:52037 as MqttDemoClient (p2, c1, k60).
+1642325800: Client MqttDemoClient closed its connection.
+1642325924: mosquitto version 2.0.14 terminating
+1642325969: mosquitto version 2.0.14 starting
+1642325969: Config loaded from /mosquitto/config/mosquitto.conf.
+1642325969: Opening ipv4 listen socket on port 1883.
+1642325969: Opening ipv6 listen socket on port 1883.
+1642325969: mosquitto version 2.0.14 running
+1642325988: New connection from 10.0.13.4:39091 on port 1883.
+1642325988: New client connected from 10.0.13.4:39091 as MqttDemoClient (p2, c1, k60).
+1642325992: Client MqttDemoClient closed its connection.
+1642326078: mosquitto version 2.0.14 terminating
+1642326118: mosquitto version 2.0.14 starting
+1642326118: Config loaded from /mosquitto/config/mosquitto.conf.
+1642326118: Opening ipv4 listen socket on port 1883.
+1642326118: Opening ipv6 listen socket on port 1883.
+1642326118: mosquitto version 2.0.14 running
+1642326146: New connection from 10.0.19.4:46699 on port 1883.
+1642326146: New client connected from 10.0.19.4:46699 as MqttDemoClient (p2, c1, k60).
+1642326150: Client MqttDemoClient closed its connection.
+1642326235: mosquitto version 2.0.14 terminating
+1642326333: mosquitto version 2.0.14 starting
+1642326333: Config loaded from /mosquitto/config/mosquitto.conf.
+1642326333: Opening ipv4 listen socket on port 1883.
+1642326333: Opening ipv6 listen socket on port 1883.
+1642326333: mosquitto version 2.0.14 running
+1642326433: mosquitto version 2.0.14 terminating
+1642326513: mosquitto version 2.0.14 starting
+1642326513: Config loaded from /mosquitto/config/mosquitto.conf.
+1642326513: Opening ipv4 listen socket on port 1883.
+1642326513: Opening ipv6 listen socket on port 1883.
+1642326513: mosquitto version 2.0.14 running
+1642326552: New connection from 10.0.27.4:40121 on port 1883.
+1642326552: New client connected from 10.0.27.4:40121 as MqttDemoClient (p2, c1, k60).
+1642326557: Client MqttDemoClient closed its connection.
+1642326670: mosquitto version 2.0.14 terminating
+1642326724: mosquitto version 2.0.14 starting
+1642326724: Config loaded from /mosquitto/config/mosquitto.conf.
+1642326724: Opening ipv4 listen socket on port 1883.
+1642326724: Opening ipv6 listen socket on port 1883.
+1642326724: mosquitto version 2.0.14 running
+1642326739: New connection from 10.0.28.4:58665 on port 1883.
+1642326739: New client connected from 10.0.28.4:58665 as MqttDemoClient (p2, c1, k60).
+1642326744: Client MqttDemoClient closed its connection.
+1642327000: New connection from 10.0.28.4:59705 on port 1883.
+1642327000: New client connected from 10.0.28.4:59705 as MqttDemoClient (p2, c1, k60).
+1642327004: Client MqttDemoClient closed its connection.
+1642327079: New connection from 10.0.28.4:49401 on port 1883.
+1642327079: New client connected from 10.0.28.4:49401 as MqttDemoClient (p2, c1, k60).
+1642327082: Client MqttDemoClient closed its connection.
+1642327120: mosquitto version 2.0.14 terminating
+1642327153: mosquitto version 2.0.14 starting
+1642327153: Config loaded from /mosquitto/config/mosquitto.conf.
+1642327153: Opening ipv4 listen socket on port 1883.
+1642327153: Opening ipv6 listen socket on port 1883.
+1642327153: mosquitto version 2.0.14 running
+1642327952: New connection from 10.0.34.4:58435 on port 1883.
+1642327952: New client connected from 10.0.34.4:58435 as MqttDemoClient (p2, c1, k60).
+1642327953: Client MqttDemoClient closed its connection.
+1642328776: New connection from 10.0.34.4:44913 on port 1883.
+1642328776: New client connected from 10.0.34.4:44913 as MqttDemoClient (p2, c1, k60).
+1642328779: Client MqttDemoClient closed its connection.
+1642328912: New connection from 10.0.34.4:40103 on port 1883.
+1642328912: New client connected from 10.0.34.4:40103 as MqttDemoClient (p2, c1, k60).
+1642328915: Client MqttDemoClient closed its connection.
+1642330044: New connection from 10.0.34.4:35155 on port 1883.
+1642330044: New client connected from 10.0.34.4:35155 as MqttDemoClient (p2, c1, k60).
+1642330046: Client MqttDemoClient closed its connection.
+1642330053: New connection from 10.0.34.4:50227 on port 1883.
+1642330053: New client connected from 10.0.34.4:50227 as MqttDemoClient (p2, c1, k60).
+1642330057: Client MqttDemoClient closed its connection.
+1642330478: New connection from 10.0.34.4:56351 on port 1883.
+1642330478: New client connected from 10.0.34.4:56351 as MqttDemoClient (p2, c1, k60).
+1642330480: Client MqttDemoClient closed its connection.
+1642330544: New connection from 10.0.34.4:45533 on port 1883.
+1642330544: New client connected from 10.0.34.4:45533 as MqttDemoClient (p2, c1, k60).
+1642330546: Client MqttDemoClient closed its connection.
+1642330575: New connection from 10.0.34.4:47887 on port 1883.
+1642330575: New client connected from 10.0.34.4:47887 as MqttDemoClient (p2, c1, k60).
+1642330577: Client MqttDemoClient closed its connection.
+1642330615: New connection from 10.0.34.4:53551 on port 1883.
+1642330615: New client connected from 10.0.34.4:53551 as MqttDemoClient (p2, c1, k60).
+1642330618: Client MqttDemoClient closed its connection.
+1642330778: New connection from 10.0.34.4:57943 on port 1883.
+1642330778: New client connected from 10.0.34.4:57943 as MqttDemoClient (p2, c1, k60).
+1642330780: Client MqttDemoClient closed its connection.
+1642330831: New connection from 10.0.34.4:46277 on port 1883.
+1642330831: New client connected from 10.0.34.4:46277 as MqttDemoClient (p2, c1, k60).
+1642330835: Client MqttDemoClient closed its connection.
+1642331179: New connection from 10.0.34.4:43397 on port 1883.
+1642331179: New client connected from 10.0.34.4:43397 as MqttDemoClient (p2, c1, k60).
+1642331182: Client MqttDemoClient closed its connection.
+1642331250: New connection from 10.0.34.4:41477 on port 1883.
+1642331250: New client connected from 10.0.34.4:41477 as MqttDemoClient (p2, c1, k60).
+1642331253: Client MqttDemoClient closed its connection.
+1642331450: New connection from 10.0.34.4:58823 on port 1883.
+1642331450: New client connected from 10.0.34.4:58823 as MqttDemoClient (p2, c1, k60).
+1642331453: Client MqttDemoClient closed its connection.
+1642331491: New connection from 10.0.34.4:33771 on port 1883.
+1642331491: New client connected from 10.0.34.4:33771 as MqttDemoClient (p2, c1, k60).
+1642331493: Client MqttDemoClient closed its connection.
+1642331501: New connection from 10.0.34.4:56271 on port 1883.
+1642331501: New client connected from 10.0.34.4:56271 as MqttDemoClient (p2, c1, k60).
+1642331503: Client MqttDemoClient closed its connection.
+1642331526: New connection from 10.0.34.4:60795 on port 1883.
+1642331526: New client connected from 10.0.34.4:60795 as MqttDemoClient (p2, c1, k60).
+1642331528: Client MqttDemoClient closed its connection.
+1642331536: New connection from 10.0.34.4:50089 on port 1883.
+1642331536: New client connected from 10.0.34.4:50089 as MqttDemoClient (p2, c1, k60).
+1642331538: Client MqttDemoClient closed its connection.
+1642331546: New connection from 10.0.34.4:40647 on port 1883.
+1642331546: New client connected from 10.0.34.4:40647 as MqttDemoClient (p2, c1, k60).
+1642331548: Client MqttDemoClient closed its connection.
+1642331576: New connection from 10.0.34.4:52479 on port 1883.
+1642331576: New client connected from 10.0.34.4:52479 as MqttDemoClient (p2, c1, k60).
+1642331577: Client MqttDemoClient closed its connection.
+1642331831: New connection from 10.0.34.4:39489 on port 1883.
+1642331831: New client connected from 10.0.34.4:39489 as MqttDemoClient (p2, c1, k60).
+1642331833: Client MqttDemoClient closed its connection.
+1642331909: New connection from 10.0.34.4:36285 on port 1883.
+1642331909: New client connected from 10.0.34.4:36285 as MqttDemoClient (p2, c1, k60).
+1642331910: Client MqttDemoClient closed its connection.
+1642331930: New connection from 10.0.34.4:60213 on port 1883.
+1642331930: New client connected from 10.0.34.4:60213 as MqttDemoClient (p2, c1, k60).
+1642331932: Client MqttDemoClient closed its connection.
+1642331955: New connection from 10.0.34.4:41463 on port 1883.
+1642331955: New client connected from 10.0.34.4:41463 as MqttDemoClient (p2, c1, k60).
+1642331957: Client MqttDemoClient closed its connection.
+1642332089: New connection from 10.0.34.4:39071 on port 1883.
+1642332089: New client connected from 10.0.34.4:39071 as MqttDemoClient (p2, c1, k60).
+1642332091: Client MqttDemoClient closed its connection.
+1642332222: New connection from 10.0.34.4:41687 on port 1883.
+1642332222: New client connected from 10.0.34.4:41687 as MqttDemoClient (p2, c1, k60).
+1642332224: Client MqttDemoClient closed its connection.
+1642332537: New connection from 10.0.34.4:56249 on port 1883.
+1642332537: New client connected from 10.0.34.4:56249 as MqttDemoClient (p2, c1, k60).
+1642332539: Client MqttDemoClient closed its connection.
+1642332549: New connection from 10.0.34.4:60367 on port 1883.
+1642332549: New client connected from 10.0.34.4:60367 as MqttDemoClient (p2, c1, k60).
+1642332550: Client MqttDemoClient closed its connection.
+1642332552: New connection from 10.0.34.4:58157 on port 1883.
+1642332552: New client connected from 10.0.34.4:58157 as MqttDemoClient (p2, c1, k60).
+1642332555: Client MqttDemoClient closed its connection.
+1642332731: New connection from 10.0.34.4:56295 on port 1883.
+1642332731: New client connected from 10.0.34.4:56295 as MqttDemoClient (p2, c1, k60).
+1642332734: Client MqttDemoClient closed its connection.
+1642332742: New connection from 10.0.34.4:54665 on port 1883.
+1642332742: New client connected from 10.0.34.4:54665 as MqttDemoClient (p2, c1, k60).
+1642332742: Client MqttDemoClient closed its connection.
+1642332745: New connection from 10.0.34.4:58809 on port 1883.
+1642332745: New client connected from 10.0.34.4:58809 as MqttDemoClient (p2, c1, k60).
+1642332748: Client MqttDemoClient closed its connection.
+1642332821: New connection from 10.0.34.4:46983 on port 1883.
+1642332821: New client connected from 10.0.34.4:46983 as MqttDemoClient (p2, c1, k60).
+1642332824: Client MqttDemoClient closed its connection.
+1642332847: New connection from 10.0.34.4:36061 on port 1883.
+1642332847: New client connected from 10.0.34.4:36061 as MqttDemoClient (p2, c1, k60).
+1642332850: Client MqttDemoClient closed its connection.
+1642332927: New connection from 10.0.34.4:34579 on port 1883.
+1642332927: New client connected from 10.0.34.4:34579 as MqttDemoClient (p2, c1, k60).
+1642332930: Client MqttDemoClient closed its connection.
+1642332934: New connection from 10.0.34.4:34791 on port 1883.
+1642332934: New client connected from 10.0.34.4:34791 as MqttDemoClient (p2, c1, k60).
+1642332935: Client MqttDemoClient closed its connection.
+1642332956: New connection from 10.0.34.4:37621 on port 1883.
+1642332956: New client connected from 10.0.34.4:37621 as MqttDemoClient (p2, c1, k60).
+1642332957: Client MqttDemoClient closed its connection.
+1642332979: New connection from 10.0.34.4:54995 on port 1883.
+1642332979: New client connected from 10.0.34.4:54995 as MqttDemoClient (p2, c1, k60).
+1642332981: Client MqttDemoClient closed its connection.
+1642333034: New connection from 10.0.34.4:38781 on port 1883.
+1642333034: New client connected from 10.0.34.4:38781 as MqttDemoClient (p2, c1, k60).
+1642333036: Client MqttDemoClient closed its connection.
+1642333129: New connection from 10.0.34.4:37377 on port 1883.
+1642333129: New client connected from 10.0.34.4:37377 as MqttDemoClient (p2, c1, k60).
+1642333131: Client MqttDemoClient closed its connection.
+1642333142: New connection from 10.0.34.4:49845 on port 1883.
+1642333142: New client connected from 10.0.34.4:49845 as MqttDemoClient (p2, c1, k60).
+1642333143: Client MqttDemoClient closed its connection.
+1642333840: mosquitto version 2.0.14 terminating
+1642333927: mosquitto version 2.0.14 starting
+1642333927: Config loaded from /mosquitto/config/mosquitto.conf.
+1642333927: Opening ipv4 listen socket on port 1883.
+1642333927: Opening ipv6 listen socket on port 1883.
+1642333927: mosquitto version 2.0.14 running
+1642335113: mosquitto version 2.0.14 terminating
+1642335134: mosquitto version 2.0.14 starting
+1642335134: Config loaded from /mosquitto/config/mosquitto.conf.
+1642335134: Opening ipv4 listen socket on port 1883.
+1642335134: Opening ipv6 listen socket on port 1883.
+1642335134: mosquitto version 2.0.14 running
+1642335162: New connection from 10.0.37.4:56801 on port 1883.
+1642335162: New client connected from 10.0.37.4:56801 as MqttDemoClient (p2, c1, k60).
+1642335163: Client MqttDemoClient closed its connection.
+1642335216: New connection from 10.0.37.4:37235 on port 1883.
+1642335216: New client connected from 10.0.37.4:37235 as MqttDemoClient (p2, c1, k60).
+1642335218: Client MqttDemoClient closed its connection.
+1642335234: New connection from 10.0.37.4:36269 on port 1883.
+1642335234: New client connected from 10.0.37.4:36269 as MqttDemoClient (p2, c1, k60).
+1642335237: Client MqttDemoClient closed its connection.
+1642335249: New connection from 10.0.37.4:42895 on port 1883.
+1642335249: New client connected from 10.0.37.4:42895 as MqttDemoClient (p2, c1, k60).
+1642335252: Client MqttDemoClient closed its connection.
+1642335286: New connection from 10.0.37.4:50795 on port 1883.
+1642335286: New client connected from 10.0.37.4:50795 as MqttDemoClient (p2, c1, k60).
+1642335288: Client MqttDemoClient closed its connection.
+1642335347: New connection from 10.0.37.4:54533 on port 1883.
+1642335347: New client connected from 10.0.37.4:54533 as MqttDemoClient (p2, c1, k60).
+1642335349: Client MqttDemoClient closed its connection.
+1642335411: New connection from 10.0.37.4:55217 on port 1883.
+1642335411: New client connected from 10.0.37.4:55217 as MqttDemoClient (p2, c1, k60).
+1642335413: Client MqttDemoClient closed its connection.
+1642335495: New connection from 10.0.37.4:41033 on port 1883.
+1642335495: New client connected from 10.0.37.4:41033 as MqttDemoClient (p2, c1, k60).
+1642335497: Client MqttDemoClient closed its connection.
+1642335518: New connection from 10.0.37.4:36609 on port 1883.
+1642335518: New client connected from 10.0.37.4:36609 as MqttDemoClient (p2, c1, k60).
+1642335521: Client MqttDemoClient closed its connection.
+1642335612: New connection from 10.0.37.4:40107 on port 1883.
+1642335612: New client connected from 10.0.37.4:40107 as MqttDemoClient (p2, c1, k60).
+1642335616: Client MqttDemoClient closed its connection.
+1642335625: New connection from 10.0.37.4:60093 on port 1883.
+1642335625: New client connected from 10.0.37.4:60093 as MqttDemoClient (p2, c1, k60).
+1642335627: Client MqttDemoClient closed its connection.
+1642335714: New connection from 10.0.37.4:37599 on port 1883.
+1642335714: New client connected from 10.0.37.4:37599 as MqttDemoClient (p2, c1, k60).
+1642335717: Client MqttDemoClient closed its connection.
+1642335765: New connection from 10.0.37.4:44177 on port 1883.
+1642335765: New client connected from 10.0.37.4:44177 as MqttDemoClient (p2, c1, k60).
+1642335767: Client MqttDemoClient closed its connection.
+1642335849: New connection from 10.0.37.4:45263 on port 1883.
+1642335849: New client connected from 10.0.37.4:45263 as MqttDemoClient (p2, c1, k60).
+1642335852: Client MqttDemoClient closed its connection.
+1642336160: mosquitto version 2.0.14 terminating
+1642350966: mosquitto version 2.0.14 starting
+1642350966: Config loaded from /mosquitto/config/mosquitto.conf.
+1642350966: Opening ipv4 listen socket on port 1883.
+1642350966: Opening ipv6 listen socket on port 1883.
+1642350966: mosquitto version 2.0.14 running
+1642351046: mosquitto version 2.0.14 terminating
+1642351144: mosquitto version 2.0.14 starting
+1642351144: Config loaded from /mosquitto/config/mosquitto.conf.
+1642351144: Opening ipv4 listen socket on port 1883.
+1642351144: Opening ipv6 listen socket on port 1883.
+1642351144: mosquitto version 2.0.14 running
+1642351581: New connection from 172.22.0.1:37852 on port 1883.
+1642351581: Client <unknown> disconnected due to malformed packet.
+1642351582: New connection from 172.22.0.1:37856 on port 1883.
+1642351582: Client <unknown> disconnected due to malformed packet.
+1642351798: mosquitto version 2.0.14 terminating
+1642351804: mosquitto version 2.0.14 starting
+1642351804: Config loaded from /mosquitto/config/mosquitto.conf.
+1642351804: Opening ipv4 listen socket on port 1883.
+1642351804: Opening ipv6 listen socket on port 1883.
+1642351804: mosquitto version 2.0.14 running
+1642353272: mosquitto version 2.0.14 terminating
+1642353277: mosquitto version 2.0.14 starting
+1642353277: Config loaded from /mosquitto/config/mosquitto.conf.
+1642353277: Opening ipv4 listen socket on port 1883.
+1642353277: Opening ipv6 listen socket on port 1883.
+1642353277: mosquitto version 2.0.14 running
+1642353520: mosquitto version 2.0.14 terminating
+1642353539: mosquitto version 2.0.14 starting
+1642353539: Config loaded from /mosquitto/config/mosquitto.conf.
+1642353539: Opening ipv4 listen socket on port 1883.
+1642353539: Opening ipv6 listen socket on port 1883.
+1642353539: mosquitto version 2.0.14 running
+1642353861: New connection from 172.31.0.3:34931 on port 1883.
+1642353861: New client connected from 172.31.0.3:34931 as MqttDemoClient (p2, c1, k60).
+1642353864: Client MqttDemoClient closed its connection.
+1642354297: New connection from 172.31.0.3:60517 on port 1883.
+1642354297: New client connected from 172.31.0.3:60517 as MqttDemoClient (p2, c1, k60).
+1642354299: Client MqttDemoClient closed its connection.
+1642355724: mosquitto version 2.0.14 terminating
+1642355745: mosquitto version 2.0.14 starting
+1642355745: Config loaded from /mosquitto/config/mosquitto.conf.
+1642355745: Opening ipv4 listen socket on port 1883.
+1642355745: Opening ipv6 listen socket on port 1883.
+1642355745: mosquitto version 2.0.14 running
+1642355840: mosquitto version 2.0.14 terminating
+1642355997: mosquitto version 2.0.14 starting
+1642355997: Config loaded from /mosquitto/config/mosquitto.conf.
+1642355997: Opening ipv4 listen socket on port 1883.
+1642355997: Opening ipv6 listen socket on port 1883.
+1642355997: mosquitto version 2.0.14 running
+1642356102: mosquitto version 2.0.14 terminating
+1642356592: mosquitto version 2.0.14 starting
+1642356592: Config loaded from /mosquitto/config/mosquitto.conf.
+1642356592: Opening ipv4 listen socket on port 1883.
+1642356592: Opening ipv6 listen socket on port 1883.
+1642356592: mosquitto version 2.0.14 running
+1642356620: New connection from 192.168.176.3:37595 on port 1883.
+1642356620: New client connected from 192.168.176.3:37595 as MqttDemoClient (p2, c1, k60).
+1642356624: Client MqttDemoClient closed its connection.
+1642356662: New connection from 192.168.176.3:37461 on port 1883.
+1642356662: New client connected from 192.168.176.3:37461 as MqttDemoClient (p2, c1, k60).
+1642356665: Client MqttDemoClient closed its connection.
+1642356697: New connection from 192.168.176.3:38289 on port 1883.
+1642356697: New client connected from 192.168.176.3:38289 as MqttDemoClient (p2, c1, k60).
+1642356700: Client MqttDemoClient closed its connection.
+1642356865: New connection from 192.168.176.3:34365 on port 1883.
+1642356865: New client connected from 192.168.176.3:34365 as MqttDemoClient (p2, c1, k60).
+1642356871: Client MqttDemoClient closed its connection.
+1642357705: mosquitto version 2.0.14 terminating
+1642422203: mosquitto version 2.0.14 starting
+1642422203: Config loaded from /mosquitto/config/mosquitto.conf.
+1642422203: Opening ipv4 listen socket on port 1883.
+1642422203: Opening ipv6 listen socket on port 1883.
+1642422203: mosquitto version 2.0.14 running
+1642422237: mosquitto version 2.0.14 terminating
+1642422285: mosquitto version 2.0.14 starting
+1642422285: Config loaded from /mosquitto/config/mosquitto.conf.
+1642422285: Opening ipv4 listen socket on port 1883.
+1642422285: Opening ipv6 listen socket on port 1883.
+1642422285: mosquitto version 2.0.14 running
+1642422455: New connection from 10.0.6.4:39567 on port 1883.
+1642422455: New client connected from 10.0.6.4:39567 as MqttDemoClient (p2, c1, k60).
+1642422457: Client MqttDemoClient closed its connection.
+1642423094: New connection from 10.0.6.4:57235 on port 1883.
+1642423094: New client connected from 10.0.6.4:57235 as MqttDemoClient (p2, c1, k60).
+1642423096: Client MqttDemoClient closed its connection.
+1642423108: New connection from 10.0.6.4:60921 on port 1883.
+1642423108: New client connected from 10.0.6.4:60921 as MqttDemoClient (p2, c1, k60).
+1642423110: Client MqttDemoClient closed its connection.
+1642423132: New connection from 10.0.6.4:46203 on port 1883.
+1642423132: New client connected from 10.0.6.4:46203 as MqttDemoClient (p2, c1, k60).
+1642423136: Client MqttDemoClient closed its connection.
+1642423164: mosquitto version 2.0.14 terminating

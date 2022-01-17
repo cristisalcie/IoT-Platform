@@ -1,0 +1,67 @@
+version: "3.8"
+
+services:
+  influxdb_sprc3:
+    image: influxdb:1.8
+    ports:
+      - "8086:8086"
+    volumes:
+      - influxdb_storage_sprc3:/var/lib/influxdb
+    networks:
+      - influxdb_network_sprc3
+      - mqtt_adapter_network_sprc3
+
+  grafana_sprc3:
+    image: grafana/grafana:latest
+    ports:
+      - "80:3000"
+    volumes:
+      - grafana_storage_sprc3:/var/lib/grafana
+      - ./grafana-provisioning/:/etc/grafana/provisioning
+    depends_on:
+      - influxdb_sprc3
+    networks:
+      - influxdb_network_sprc3
+    environment:
+      - GF_SECURITY_ADMIN_USER=asistent
+      - GF_SECURITY_ADMIN_PASSWORD=grafanaSPRC2021
+
+  mosquitto_sprc3:
+    image: eclipse-mosquitto:latest
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./conf:/mosquitto/config
+      - ./log:/mosquitto/log
+    networks:
+      - mosquitto_network_sprc3
+    depends_on:
+      - influxdb_sprc3
+
+  mqtt_adapter_sprc3:
+    tty: true
+    image: mqtt_adapter_image_sprc3
+    ports:
+      - "8080:8080"
+    networks:
+      - mqtt_adapter_network_sprc3
+      - mosquitto_network_sprc3
+    depends_on:
+      - influxdb_sprc3
+      - mosquitto_sprc3
+
+
+networks:
+  influxdb_network_sprc3:
+    name: influxdb_network_sprc3
+  mosquitto_network_sprc3:
+    name: mosquitto_network_sprc3
+  mqtt_adapter_network_sprc3:
+    name: mqtt_adapter_network_sprc3
+
+
+volumes:
+  influxdb_storage_sprc3:
+    name: influxdb_storage_sprc3
+  grafana_storage_sprc3:
+    name: grafana_storage_sprc3
